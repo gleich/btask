@@ -1,11 +1,11 @@
-# {{ PROJECT_NAME }}
+# btask
 
-{{ PROJECT_DESCRIPTION }}
+✅ A beautiful todo list for your terminal
 
-![build](https://github.com/Matt-Gleich/{{ PROJECT_NAME }}/workflows/build/badge.svg)
-![test](https://github.com/Matt-Gleich/{{ PROJECT_NAME }}/workflows/test/badge.svg)
-![format](https://github.com/Matt-Gleich/{{ PROJECT_NAME }}/workflows/format/badge.svg)
-![release](https://github.com/Matt-Gleich/{{ PROJECT_NAME }}/workflows/release/badge.svg)
+![build](https://github.com/Matt-Gleich/btask/workflows/build/badge.svg)
+![test](https://github.com/Matt-Gleich/btask/workflows/test/badge.svg)
+![format](https://github.com/Matt-Gleich/btask/workflows/format/badge.svg)
+![release](https://github.com/Matt-Gleich/btask/workflows/release/badge.svg)
 
 ## Contributors
 

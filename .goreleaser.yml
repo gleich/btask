@@ -1,7 +1,7 @@
 release:
   github:
     owner: Matt-Gleich
-    name: {{ PROJECT_NAME }}
+    name: btask
   prerelease: auto
 before:
   hooks:
@@ -24,7 +24,7 @@ brews:
       name: homebrew-taps
     folder: Formula
     homepage: 'https://mattglei.ch'
-    description: '{{ PROJECT_DESCRIPTION }}'
+    description: '✅ A beautiful todo list for your terminal'
     commit_author:
       name: Matt-Gleich
       email: matthewgleich@gmail.com
