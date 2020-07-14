@@ -1,6 +1,7 @@
 package cmd
 
 import (
+	"github.com/Matt-Gleich/btask/doc"
 	"github.com/Matt-Gleich/statuser"
 	"github.com/spf13/cobra"
 )
@@ -8,18 +9,13 @@ import (
 var rootCmd = &cobra.Command{
 	Use:   "btask",
 	Short: "✅ A beautiful todo list for your terminal",
-	Long: `
-  ___  ___ ____ ____ _  _
-  |__]  |  |__| [__  |_/
-  |__]  |  |  | ___] | \_
-  ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
-
-  🐙 GitHub: https://github.com/Matt-Gleich/btask
-  📜 Produced under the MIT license
-  🛠  Authors:
-	- Matthew Gleich (https://github.com/Matt-Gleich)
-
+	Long: doc.CreateLong(
+		`
+___  ___ ____ ____ _  _
+|__]  |  |__| [__  |_/
+|__]  |  |  | ___] | \_
 `,
+	),
 }
 
 // Execute adds all child commands to the root command and sets flags appropriately.
