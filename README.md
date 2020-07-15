@@ -7,6 +7,10 @@
 ![format](https://github.com/Matt-Gleich/btask/workflows/format/badge.svg)
 ![release](https://github.com/Matt-Gleich/btask/workflows/release/badge.svg)
 
-## Contributors
+<!-- DO NOT REMOVE - contributor_list:start -->
 
-1. Matthew Gleich ([@Matt-Gleich](http://www.github.com/Matt-Gleich))
+## 👥 Contributors
+
+- **[@Matt-Gleich](https://github.com/Matt-Gleich)** (7 contributions)
+
+<!-- DO NOT REMOVE - contributor_list:end -->
