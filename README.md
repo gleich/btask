@@ -1,3 +1,4 @@
+<!-- DO NOT REMOVE - contributor_list:data:start:["Matt-Gleich", "dependabot-preview[bot]"]:end -->
 # btask
 
 ✅ A beautiful todo list for your terminal
@@ -11,6 +12,8 @@
 ## 👥 Contributors
 
 
-- **[@Matt-Gleich](https://github.com/Matt-Gleich)** (8 contributions)
+- **[@Matt-Gleich](https://github.com/Matt-Gleich)**
+
+- **[@dependabot-preview[bot]](https://github.com/apps/dependabot-preview)**
 
 <!-- DO NOT REMOVE - contributor_list:end -->
